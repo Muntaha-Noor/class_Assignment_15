@@ -9,6 +9,7 @@ Headless CMS only manages content. It does not handle the design or how the cont
 
 ## 💡 Why do we need CMS?
 
+
 Traditional CMS: Perfect for creating blogs or basic websites due to its simplicity.
 
 Headless CMS: Ideal when you need to use the same content on multiple platforms like apps, smart devices, or various websites.
